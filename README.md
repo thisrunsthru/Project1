@@ -1,3 +1,3 @@
 # Project1
-A theoretical repository for an upcoming project
-started 7/25/25
+a theoretical project to explore GitHub and its many features  
+7/25/25
